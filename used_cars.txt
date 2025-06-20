@@ -1,0 +1,6 @@
+Toyota Camry,Toyota,Camry XLE,30 mpg (City) 41 mpg (Highway),$25000,Excellent condition Low mileage One-owner vehicle.,Donald Trump,(555) 123-4567,dummy@email.com,Gasoline,2.5L 4-cylinder,2020,Los Angeles,Silver
+Ford Explorer,Ford,Explorer Limited,18 mpg (City) 24 mpg (Highway),$32500,Spacious SUV with advanced safety features.,Joe Biden,(555) 987-6543,dummy@email.com,Gasoline,3.5L V6,2019,Chicago,Blue
+Chevrolet Silverado,Chevrolet,Silverado 1500 LT,15 mpg (City) 21 mpg (Highway),$28000,Powerful pickup truck Ideal for towing.,David Williams,(555) 234-5678,dummy@email.com,Diesel,3.0L Inline-6,2022,Houston,Black
+Tesla Model 3,Tesla,Model 3 Long Range,Electric (Approximately 300 miles per charge),$45000,High-performance electric car with autopilot.,Elizabeth Olsen,(555) 345-6789,dummy@email.com,Electric,Electric Motor,2023,San Francisco,White
+Suzuki Khyber,Suzuki,Suzuki Khyber Limited Edition,13 KM/L,4.0 lacs,Air Conditioned,Anonymous,(123) 456 789,dummy@email.com,Petrol,993cc,1992,Islamabad,Red
+Toyota Riaze,Toyota,Toyota Riaze Z,14 KM/L,62 lacs,Alloy Rims. Everything is in genuine condition.,,,,Petrol,996cc,2020,Karachi,White

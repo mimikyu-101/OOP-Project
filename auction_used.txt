@@ -1,0 +1,2 @@
+Tesla Model 3,Tesla,Model 3 Long Range,Electric (Approximately 300 miles per charge),$45000,High-performance electric car with autopilot.,Elizabeth Olsen,(555) 345-6789,dummy@email.com,Electric,Electric Motor,2023,San Francisco,White
+Suzuki Khyber,Suzuki,Suzuki Khyber Limited Edition,13 KM/L,4.0 lacs,Air Conditioned,Anonymous,(123) 456 789,dummy@email.com,Petrol,993cc,1992,Islamabad,Red
